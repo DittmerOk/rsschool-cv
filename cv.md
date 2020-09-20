@@ -13,6 +13,7 @@ Front-End разработчик
 • частичное знание git;
 • создаю сайты на Tilda и других конструкторах;
 • работаю с графическими редакторами – Photoshop, Figma.
+......
 
 Примеры работ:
 https://dittmerok.github.io/myportfolio/
